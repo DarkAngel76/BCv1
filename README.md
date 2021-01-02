@@ -2,7 +2,8 @@
 Controlling valves based on different timers. There is absolutly no warranty!
 
 
-The first version was desinged for .NET 4.61 and .Net Core 3.1. For testing the timers on your local computer, please refer to https://github.com/DarkAngel76/BCv1_TimerTest
+The first version was desinged for .NET 4.61 and .Net Core 3.1. For testing the timers on your local computer, please refer to https://github.com/DarkAngel76/BCv1_TimerTest.
+
 Suggestions are welcome. In case of issues please be patient, I will check them asap.
 
 Used projects and howtos from other persons or organazations:
