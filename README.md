@@ -1,5 +1,5 @@
 # BCv1
-Controlling valves based on different timers. 
+Controlling valves based on different timers. There is absolutly no warranty!
 
 The first version was desinged for .NET 4.61 and .Net Core 3.1.
 Suggestions are welcome. In case of issues please be patient, I will check them asap.
@@ -26,5 +26,3 @@ Used NuGet Packages:
 - Unosquare.WiringPi
 
 Unosquare is being used for easy handling GPIO Button events. 
-
-
